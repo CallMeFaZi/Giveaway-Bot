@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"e5df798a403e6f957cb9e0901695b08c","lockfileHash":"f6f86b158ba9d6be4144bbfcb9bb80ef","guessedImports":["@discordjs/voice","discord-giveaways","dotenv","discord.js","libsodium-wrappers","moment","ms","express","colors","enmap"],"guessedImportsHash":"3e181ba85889564ab85ba7e6e4343a16"}}}

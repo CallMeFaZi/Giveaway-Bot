@@ -1,0 +1,7 @@
+{
+  "color": "#000000",
+  "mediancolor": "#000000",
+  "wrongcolor": "#000000",
+  "footertext": "Requested By ${message.author.username}",
+  "footericon": "https://i.imgur.com/DDric14.png"
+}
